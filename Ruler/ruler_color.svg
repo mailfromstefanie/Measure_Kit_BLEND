@@ -7,11 +7,11 @@
    viewBox="0 0 22 100"
    version="1.1"
    id="SVGRoot"
-   sodipodi:docname="ruler_texture.svg"
+   sodipodi:docname="ruler_color.svg"
    inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    inkscape:export-filename="ruler_color.png"
-   inkscape:export-xdpi="350"
-   inkscape:export-ydpi="350"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +27,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="cm"
      showgrid="true"
-     inkscape:zoom="0.2045229"
-     inkscape:cx="410.71195"
-     inkscape:cy="1889.7639"
+     inkscape:zoom="1.156956234457376"
+     inkscape:cx="340.9809189411772"
+     inkscape:cy="1850.977535899952"
      inkscape:window-width="1620"
      inkscape:window-height="1018"
      inkscape:window-x="-6"
@@ -3719,11 +3719,11 @@
        transform="scale(0.02645833)"
        id="text800"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:96px;font-family:Gabriola;-inkscape-font-specification:'Gabriola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;white-space:pre;shape-inside:url(#rect802);display:inline;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;paint-order:fill markers stroke"><tspan
-         x="528.90234"
-         y="3837.7578"
-         id="tspan1405"><tspan
-           dx="0 59.414062 29.578125 22.804688 29.578125"
-           id="tspan1403">meter</tspan></tspan></text>
+         x="528.90234375"
+         y="3837.7578125"
+         id="tspan2739"><tspan
+           dx="0 59.4140625 29.578125 22.8046875 29.578125"
+           id="tspan2737">meter</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.54px;font-family:Gabriola;-inkscape-font-specification:'Gabriola, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0;stroke-linecap:round;stroke-miterlimit:0;paint-order:fill markers stroke"
